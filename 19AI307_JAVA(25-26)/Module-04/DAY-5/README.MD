@@ -21,8 +21,8 @@ To implement the Factory Design Pattern to send different types of notifications
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: VINODINI R
-RegisterNumber:  212223040244  
+Developed by: Danica Christa
+RegisterNumber:  212223240022  
 */
 ```
 
@@ -102,4 +102,5 @@ public class Main {
 
 ## RESULT:
 The program successfully creates and sends the appropriate type of notification using the Factory Pattern.
+
 
